@@ -1,2 +1,3 @@
 # hello-world
-first practice responsibility
+
+This is the readme file for the test repository.
